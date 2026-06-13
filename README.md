@@ -9,7 +9,7 @@ A Spring Boot based Business Management System developed using Java and Maven.
 - Admin Panel
 
 ## Tech Stack
-- Java 17
+- Java 21
 - Spring Boot
 - Maven
 - MySQL
