@@ -14,6 +14,7 @@ A Spring Boot based Business Management System developed using Java and Maven.
 - Maven
 - MySQL
 - Hibernate/JPA
+- thymleaf
 
 ## How to Run
 1. Clone the repository
